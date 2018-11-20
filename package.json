@@ -5,7 +5,7 @@
   "main": "index.js",
   "homepage": "https://dokyan1989.github.io/glozzom",
   "scripts": {
-    "deploy": "gh-pages -d ."
+    "deploy": "gh-pages -d dist"
   },
   "author": "",
   "license": "ISC",
